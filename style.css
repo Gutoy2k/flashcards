@@ -1,0 +1,20 @@
+:root{
+    --caixa-cor-frente: green;
+    --caixa-cor-verso: white;
+    --fundo: red;
+    --preto: black;
+    --branco: white;
+    --cor-texto-destaque: black;
+}
+
+body{
+background-color: var(--fundo);
+
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: var(--branco);
+    width: 100%;
+}
