@@ -7,5 +7,8 @@ cartao.innerHTML = `
  <H3>${categoria}</H3>
  <div class="cartao_conteudo_pergunta">
  <p>${pergunta}</p>
+ </div>
  </div>`
+ 
+ container.appendChild(cartao);
 }
