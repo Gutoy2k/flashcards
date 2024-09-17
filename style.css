@@ -17,4 +17,5 @@ footer{
     bottom: 0;
     background-color: var(--branco);
     width: 100%;
+    text-align: center;
 }
